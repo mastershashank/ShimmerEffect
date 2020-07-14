@@ -1,2 +1,2 @@
 # ShimmerEffect
-Clone and Build the rpoject and run it.
+Clone and Build the project and run it.
